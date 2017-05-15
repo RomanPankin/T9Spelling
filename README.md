@@ -30,10 +30,12 @@ For each test case, output one line containing "Case #x: " followed by the messa
 
 ## Sample
 
+```
 Input             Output 
 4                 Case #1: 44 444
 hi                Case #2: 999337777
 yes               Case #3: 333666 6660 022 2777
 foo  bar          Case #4: 4433555 555666096667775553
 hello world
+```
 
